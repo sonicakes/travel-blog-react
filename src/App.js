@@ -15,7 +15,6 @@ const cards = data.map( card =>
   return (
     <div className="container">
       {/* <Header /> */}
-      {/* <Card /> */}
       {cards}
     </div>
   );
