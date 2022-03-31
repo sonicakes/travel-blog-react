@@ -2,6 +2,10 @@
 
 This is Project #2 of [Scrimba free React course](https://scrimba.com/learn/learnreact)
 
+## Result expected UI
+
+   ![Project Screenshot](project-screenshot.png)
+
 ## Design in Figma
 
 [Link to design file](https://www.figma.com/file/QG4cOExkdbIbhSfWJhs2gs/Travel-Journal?node-id=0%3A1)

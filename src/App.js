@@ -1,6 +1,6 @@
 import React from 'react';
 import Card from './components/Card';
-// import Header from "./components/Header";
+import Header from "./components/Header";
 import data from './data';
 
 function App() {
@@ -14,7 +14,7 @@ const cards = data.map( card =>
 
   return (
     <div className="container">
-      {/* <Header /> */}
+      <Header />
       {cards}
     </div>
   );
